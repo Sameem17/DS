@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505849330 source:c:\users\sameem\documents\new folder\ds7\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
