@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507661426 source:c:\users\sameem\documents\new folder\ds10\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1446667744 source:c:\users\sameem\documents\new folder\ds10\main.cpp
+	<iostream>
+
